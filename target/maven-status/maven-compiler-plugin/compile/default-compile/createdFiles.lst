@@ -1,0 +1,9 @@
+br\edu\ifsul\testes\TesteListarEstados.class
+br\edu\ifsul\testes\TestePersistirEstado.class
+br\edu\ifsul\testes\TestePersistirCidade.class
+br\edu\ifsul\modelo\Cidade.class
+br\edu\ifsul\testes\TesteListarCidades.class
+br\edu\ifsul\modelo\Estado.class
+br\edu\ifsul\testes\TesteAlterarEstado.class
+.netbeans_automatic_build
+br\edu\ifsul\testes\TesteRemoverEstado.class
